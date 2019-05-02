@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.exe.config
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.exe
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.pdb
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.exe
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.pdb
+C:\Users\Richie\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.csprojAssemblyReference.cache
